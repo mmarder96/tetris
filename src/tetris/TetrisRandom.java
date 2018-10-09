@@ -3,14 +3,11 @@ package tetris;
 import java.util.ArrayList;
 
 /**
- * Creates a Random Piece
+ * Creates a random tetris piece
  *
- * @author Max
+ * @author mmarder
  */
-/**
- * Creates a random Tetris piece
- * 
- */
+
 public class TetrisRandom extends TetrisPiece {
 
     TetrisSquare[] squareArray = new TetrisSquare[4];

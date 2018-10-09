@@ -11,7 +11,7 @@ import javafx.scene.paint.Color;
 /**
  * This should be implemented to include your game control.
  *
- * @author pipWolfe
+ * @author mmarder
  */
 public class TetrisGame {
 

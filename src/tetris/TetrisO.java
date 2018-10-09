@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 /**
  * Creates an O piece
  *
- * @author Max
+ * @author mmarder
  */
 public class TetrisO extends TetrisPiece { 
     

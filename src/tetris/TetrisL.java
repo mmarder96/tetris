@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 /**
  * Creates an L piece
  *
- * @author Max
+ * @author mmarder
  */
 public class TetrisL extends TetrisPiece {
 

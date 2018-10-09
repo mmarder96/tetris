@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 /**
  * Creates an I piece
  *
- * @author Max
+ * @author mmarder
  */
 public class TetrisI extends TetrisPiece {    
     TetrisSquare[] squareArray = new TetrisSquare[4];

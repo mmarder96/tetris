@@ -6,13 +6,11 @@
 package tetris;
 
 /**
+ * @author mmarder
  *
- * @author Max
  */
 /**
  * General Class for Individual Tetris Pieces to stem from
- *
- * 
  */
 public abstract class TetrisPiece {
 

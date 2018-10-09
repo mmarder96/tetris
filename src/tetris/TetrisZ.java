@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 /**
  * Creates a Z piece
  *
- * @author Max
+ * @author mmarder
  */
 public class TetrisZ extends TetrisPiece {    
     

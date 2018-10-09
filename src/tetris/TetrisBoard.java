@@ -10,7 +10,7 @@ import javafx.scene.layout.Pane;
 /**
  * A Pane in which tetris squares can be displayed.
  * 
- * @author pipWolfe
+ * @author mmarder
  */
 public class TetrisBoard extends Pane{
     // The size of the side of a tetris square
