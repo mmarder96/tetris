@@ -51,9 +51,7 @@ public class TetrisGame {
                 for (int k = 0; k < pieceArr.length; k++) {
                     boardSquares[pieceArr[k].getY()][pieceArr[k].getX()] = pieceArr[k];
                 }
-                
 
-                
                 board.getChildren().clear();
                 for (int y = 0; y < boardSquares.length; y++) {
                     for (int x = 0; x < boardSquares[y].length; x++) {
@@ -64,8 +62,7 @@ public class TetrisGame {
                     }
 
                 }
-//                currPiece = new TetrisRandom(board, 9, 0);
-                currPiece = new TetrisI(board, 9, 0);
+                currPiece = new TetrisRandom(board, 9, 0);
                 pieceArr = currPiece.getSquares();
                 break;
             }
